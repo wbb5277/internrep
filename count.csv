@@ -1,0 +1,12 @@
+,name,occur
+0,sendto,625204
+1,futex,61457
+2,recvfrom,58007
+3,poll,10348
+4,io_getevents,7570
+5,pwrite64,5590
+6,fsync,5536
+7,sched_yield,2089
+8,select,714
+9,io_submit,442
+10,other,204
